@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/mceskjd3u40a5wnv/branch/master?svg=true)](https://ci.appveyor.com/project/MaverickTse/exostacker/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/mceskjd3u40a5wnv/branch/master?svg=true)](https://ci.appveyor.com/project/MaverickTse/exostacker/branch/master)  [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f55ae0a435c84f949764a29a1d93f03a)](https://www.codacy.com/app/MaverickTse/EXOStacker?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MaverickTse/EXOStacker&amp;utm_campaign=Badge_Grade)
 
 # EXO Stacker for AviUtl
 ------------------------
