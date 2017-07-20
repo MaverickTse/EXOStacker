@@ -1,4 +1,6 @@
-#EXO Stacker for AviUtl
+[![Build status](https://ci.appveyor.com/api/projects/status/mceskjd3u40a5wnv/branch/master?svg=true)](https://ci.appveyor.com/project/MaverickTse/exostacker/branch/master)
+
+# EXO Stacker for AviUtl
 ------------------------
 by Maverick Tse, 2014
 
